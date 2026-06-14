@@ -12,12 +12,12 @@
     <atom:link href="https://x-rayon.github.io/ai-daily-brief-en/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://x-rayon.github.io/ai-daily-brief-en/cover.png"/>
     <item>
-      <title>Fable 5 Shutdown, Prometheus $12B Raise, Google TPU 8 | AI Daily Brief Night</title>
+      <title>DiffusionGemma Goes Open Source, OpenAI's Bio AI Gambit, and Meta's Chip Setback</title>
       <description>AI/tech deep dive podcast - 2026-06-15 Morning</description>
-      <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-15-ep1/en_ep1_20260615_011754.mp3" length="5332367" type="audio/mpeg"/>
+      <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-15-ep1/en_ep1_20260615_012513.mp3" length="3178205" type="audio/mpeg"/>
       <guid isPermaLink="false">en-2026-06-15-ep1</guid>
-      <pubDate>Mon, 15 Jun 2026 01:17:54 +0800</pubDate>
-      <itunes:duration>333</itunes:duration>
+      <pubDate>Mon, 15 Jun 2026 01:25:13 +0800</pubDate>
+      <itunes:duration>198</itunes:duration>
     </item>
   </channel>
 </rss>
