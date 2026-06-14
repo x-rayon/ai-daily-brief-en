@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Daily Brief</title>
+    <link>https://x-rayon.github.io/ai-daily-brief-en</link>
+    <description>Your daily AI and tech news podcast. Three stories, no fluff, just insight. Hosted by SlopWalker.</description>
+    <language>en-us</language>
+    <itunes:author>SlopWalker</itunes:author>
+    <itunes:owner><itunes:name>SlopWalker</itunes:name><itunes:email>chenruipeng0707@gmail.com</itunes:email></itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://x-rayon.github.io/ai-daily-brief-en/rss.xml" rel="self" type="application/rss+xml"/>
+    <itunes:image href="https://x-rayon.github.io/ai-daily-brief-en/cover.png"/>
+  </channel>
+</rss>
