@@ -3,7 +3,7 @@
   <channel>
     <title>AI Daily Brief</title>
     <link>https://x-rayon.github.io/ai-daily-brief-en</link>
-    <description>Your daily AI and tech news podcast. Three stories, no fluff, just insight. Hosted by SlopWalker.</description>
+    <description>Your daily AI and tech news podcast. Three stories, no fluff, just insight.</description>
     <language>en-us</language>
     <itunes:author>SlopWalker</itunes:author>
     <itunes:owner><itunes:name>SlopWalker</itunes:name><itunes:email>chenruipeng0707@gmail.com</itunes:email></itunes:owner>
@@ -11,5 +11,13 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://x-rayon.github.io/ai-daily-brief-en/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://x-rayon.github.io/ai-daily-brief-en/cover.png"/>
+    <item>
+      <title>OpenAI Under Fire, AI Beats Doctors, and Startup Funding Surges | June 15</title>
+      <description>AI/tech deep dive podcast - 2026-06-15 Morning</description>
+      <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-15-ep1/en_ep1_20260615_005452.mp3" length="2394950" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-2026-06-15-ep1</guid>
+      <pubDate>Mon, 15 Jun 2026 00:54:52 +0800</pubDate>
+      <itunes:duration>149</itunes:duration>
+    </item>
   </channel>
 </rss>
