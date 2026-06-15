@@ -12,6 +12,14 @@
     <atom:link href="https://x-rayon.github.io/ai-daily-brief-en/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://x-rayon.github.io/ai-daily-brief-en/cover.png"/>
     <item>
+      <title>Trump AI Order, Anthropic Unbanned, Prometheus $12B | AI Daily Brief Morning</title>
+      <description>AI/tech deep dive podcast - 2026-06-15 Late Morning</description>
+      <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-15-ep2/en_ep2_20260615_111537.mp3" length="5979368" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-2026-06-15-ep2</guid>
+      <pubDate>Mon, 15 Jun 2026 11:15:37 +0800</pubDate>
+      <itunes:duration>373</itunes:duration>
+    </item>
+    <item>
       <title>Anthropic Fable 5 Banned, OpenAI IPO Filing, Apple Siri AI Revolution | AI Daily Brief Morning</title>
       <description>AI/tech deep dive podcast - 2026-06-15 Morning</description>
       <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-15-ep1/en_ep1_20260615_091549.mp3" length="5790032" type="audio/mpeg"/>
