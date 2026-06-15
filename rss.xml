@@ -12,6 +12,14 @@
     <atom:link href="https://x-rayon.github.io/ai-daily-brief-en/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://x-rayon.github.io/ai-daily-brief-en/cover.png"/>
     <item>
+      <title>Zhipu AI Open-Source, World Foundation Model, Mistral Funding | AI Daily Brief Midday</title>
+      <description>AI/tech deep dive podcast - 2026-06-15 Midday</description>
+      <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-15-ep3/en_ep3_20260615_131547.mp3" length="4279528" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-2026-06-15-ep3</guid>
+      <pubDate>Mon, 15 Jun 2026 13:15:47 +0800</pubDate>
+      <itunes:duration>267</itunes:duration>
+    </item>
+    <item>
       <title>Trump AI Order, Anthropic Unbanned, Prometheus $12B | AI Daily Brief Morning</title>
       <description>AI/tech deep dive podcast - 2026-06-15 Late Morning</description>
       <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-15-ep2/en_ep2_20260615_111537.mp3" length="5979368" type="audio/mpeg"/>
