@@ -12,6 +12,14 @@
     <atom:link href="https://x-rayon.github.io/ai-daily-brief-en/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://x-rayon.github.io/ai-daily-brief-en/cover.png"/>
     <item>
+      <title>Top AI News Today: Moonshot AI's $2B State Deal, India's AI Unicorn & KAIST's 90% Cooling Breakthrough | AI Daily Brief</title>
+      <description>AI/tech deep dive podcast - 2026-06-16 Midday</description>
+      <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-16-ep3/en_ep3_20260616_130957.mp3" length="7791639" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-2026-06-16-ep3</guid>
+      <pubDate>Tue, 16 Jun 2026 13:09:57 +0800</pubDate>
+      <itunes:duration>486</itunes:duration>
+    </item>
+    <item>
       <title>Top AI News Today: Anthropic Export Controls, China's Triple Launch & Tensordyne's 17x Chip | AI Daily Brief</title>
       <description>AI/tech deep dive podcast - 2026-06-16 Late Morning</description>
       <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-16-ep2/en_ep2_20260616_125421.mp3" length="6998352" type="audio/mpeg"/>
