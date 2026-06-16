@@ -12,6 +12,14 @@
     <atom:link href="https://x-rayon.github.io/ai-daily-brief-en/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:image href="https://x-rayon.github.io/ai-daily-brief-en/cover.png"/>
     <item>
+      <title>Top AI News Today: Google's Phone AI, India's $234M Bet & China's $1.5B Model | AI Daily Brief</title>
+      <description>AI/tech deep dive podcast - 2026-06-16 Night</description>
+      <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-16-ep6/en_ep6_20260616_191157.mp3" length="7299283" type="audio/mpeg"/>
+      <guid isPermaLink="false">en-2026-06-16-ep6</guid>
+      <pubDate>Tue, 16 Jun 2026 19:11:57 +0800</pubDate>
+      <itunes:duration>456</itunes:duration>
+    </item>
+    <item>
       <title>Top AI News Today: Anthropic's ID Lockdown, MiniMax M3 Goes Open & DeepMind's Global Training Breakthrough | AI Daily Brief</title>
       <description>AI/tech deep dive podcast - 2026-06-16 Midday</description>
       <enclosure url="https://github.com/x-rayon/ai-daily-brief-en/releases/download/v2026-06-16-ep3/en_ep3_20260616_133122.mp3" length="7799998" type="audio/mpeg"/>
